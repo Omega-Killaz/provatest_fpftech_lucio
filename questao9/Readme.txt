@@ -16,3 +16,6 @@ sudo chmod +x /usr/local/bin/chromedriver
 python3 -m pytest
 
 8- Exemplo em "Image1" com screnshot do teste e conclusão de 1 falha
+
+Note:
+O progama não esta sendo capaz de validar o cenario de erro
